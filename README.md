@@ -1,6 +1,6 @@
 # how to update google chrome
 
-[![how to update google chrome](get-detail.png)](https://github.com/techc0mmunity/how.to.update.google.chrome/)
+[![how to update google chrome](get-detail.png)](https://icncomputer.com/how-to-update-google-chrome/)
 
 To make sure you're protected by the latest security updates, Google Chrome can automatically update when a new version of the browser is available on your device. With these updates, you might sometimes notice that your browser looks different.
 
